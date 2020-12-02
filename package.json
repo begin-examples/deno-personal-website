@@ -7,7 +7,7 @@
     "test": "cross-env NODE_ENV=testing PORT=6666 tape test/*-test.js ./test/**/*-test.js | tap-spec"
   },
   "devDependencies": {
-    "cross-env": "^7.0.0"
+    "cross-env": "^7.0.3"
   },
   "dependencies": {
     "@architect/sandbox": "^3.1.3",
