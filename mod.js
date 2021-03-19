@@ -1,4 +1,4 @@
-import Main from './views/main.js'
+import Main from 'http://localhost:3333/_static/views/main.js'
 
 export async function handler (/*req: object*/) {
   return {
