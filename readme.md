@@ -1,7 +1,5 @@
 <img src="https://static.begin.app/node-personal-website/readme-banner.png" width="561">
 
-$BADGE
-
 A fast, beautiful, customizable personal site running on Begin. Demonstrates server(less)-side rendering, shared components, and static assets.
 
 
