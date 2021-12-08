@@ -4,7 +4,7 @@
   "description": "Basic Begin personal website",
   "scripts": {
     "start": "sandbox",
-    "test": "tape test/*-test.js test/**/*-test.js | tap-arc"
+    "test": "cross-env NODE_ENV=testing tape 'test/**/*-test.js' | tap-arc"
   },
   "devDependencies": {
     "cross-env": "^7.0.3"
