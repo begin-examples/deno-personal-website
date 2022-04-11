@@ -10,7 +10,7 @@
     "cross-env": "^7.0.3"
   },
   "dependencies": {
-    "@architect/sandbox": "^4.5.2",
+    "@architect/sandbox": "^5.2.2",
     "@begin/data": "^3.0.4",
     "tap-arc": "^0.3.4",
     "tape": "^5.5.3",
